@@ -1,6 +1,6 @@
 {
   "name": "qrl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show a QR code from the command line",
   "main": "qrl.js",
   "repository": "https://github.com/gimlids/qrl",
