@@ -3,7 +3,17 @@
   "version": "1.0.1",
   "description": "Show a QR code from the command line",
   "main": "qrl.js",
+  "bin": {
+    "qrl": "./qrl.js"
+  },
   "repository": "https://github.com/gimlids/qrl",
   "author": "David Stolarsky",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "get-port": "^3.2.0",
+    "open": "^0.0.5",
+    "qrcode": "^1.2.0",
+    "yargs": "^10.0.3"
+  }
 }
