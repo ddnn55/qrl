@@ -1,6 +1,6 @@
 {
   "name": "qrl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Show a QR code from the command line",
   "main": "qrl.js",
   "bin": {
